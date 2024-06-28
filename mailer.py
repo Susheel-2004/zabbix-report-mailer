@@ -79,7 +79,7 @@ css = """
         border-spacing: none;
     }
     th {
-        padding: 3px;
+        padding: 10px;
         border-right: 0.5px solid black;
         font-size: larger;
         font-weight: bold;
@@ -88,11 +88,11 @@ css = """
     td {
         color: black;
         width: fit-content;
-        padding: 3px;
+        padding: 10px;
         text-align: center;
         border-right: 0.5px solid black;
         font-weight: bold;
-        font-size: small;
+        font-size: larger;
         white-space: nowrap;
     }
     tr {
